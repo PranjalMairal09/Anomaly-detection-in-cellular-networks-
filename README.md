@@ -1,0 +1,1 @@
+<p>This notebook contains the Exploratory data analysis of cellular networks data and the models trained which are namely (Naive Bayes, Logistic Regression, Decision Tree, ANN, Random Forest, SVM, Gradient Boosting, KNN).The best performing model for now is Decision tree classifier with a classification accuracy of 95% approx.</p>
